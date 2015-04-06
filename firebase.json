@@ -1,0 +1,10 @@
+{
+  "firebase": "resplendent-fire-2745",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ],
+  "rules": "security-rules.json"
+}
